@@ -22,7 +22,7 @@ const Sidebar = () => {
             <SidebarRow Icon={EmojiFlagsIcon} title='Pages' />
             <SidebarRow Icon={PeopleIcon} title='Friends' />
             <SidebarRow Icon={ChatIcon} title='Messenger' />
-            <SidebarRow Icon={StorefrontIcon} title='Marketplace' />
+            <a href="https://ama-store1.web.app" target="_blank"><SidebarRow Icon={StorefrontIcon} title='Marketplace' /> </a>
 
             <SidebarRow Icon={VideoLibraryIcon} title='Videos' />
             <SidebarRow Icon={ExpandMoreOutlined} title='More' />

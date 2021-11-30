@@ -39,7 +39,7 @@ const Header = () => {
                     <SubscriptionsOutlinedIcon fontsize='large' />
                 </div>
                 <div className="header__option">
-                    <StorefrontOutlinedIcon fontsize='large' />
+                    <a href="https://ama-store1.web.app" target="_blank"><StorefrontOutlinedIcon fontsize='large' /></a>
                 </div>
                 <div className="header__option">
                     <SupervisedUserCircleIcon fontsize='large' />
