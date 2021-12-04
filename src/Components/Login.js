@@ -74,6 +74,9 @@ const Login = () => {
             </div>
             <Button type='submit' onClick={signIn}>Sign in with Google</Button>
             <Button type='submit' onClick={anonymousSignIn}>Sign in anonymously</Button>
+            <p3>Note: This is a side project for educational purposes only. There is no intention to affect Facebook or any
+                of its related companies. 
+            </p3>
         </div>
     )
 }
