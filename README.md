@@ -11,5 +11,5 @@ The following dependencies have been used in the project:
 - Multer_gridFS - assists in the actual storage of images in desired chunks of ~250kb
 - Testing library - for testing perpose
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)!
 
